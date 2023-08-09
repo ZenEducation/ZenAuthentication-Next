@@ -2,7 +2,7 @@
   "providers": [
     "awscloudformation"
   ],
-  "projectName": "ZenIntegrationNext",
+  "projectName": "ZenAuthenticationNex",
   "version": "3.1",
   "frontend": "javascript",
   "javascript": {
