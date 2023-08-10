@@ -3,7 +3,6 @@ import { useState } from "react";
 import Link from "next/link";
 import { Auth } from "aws-amplify";
 import { useRouter } from "next/router";
-// import { createTodo } from "./api/todo";
 
 const Registration = () => {
   const [formData, setFormData] = useState({
